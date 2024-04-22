@@ -1,5 +1,6 @@
 # VWOLoginAutomationSelenium
-Framework consists of
+Framework consists of :
+
 -Java 21
 -TestNG
 -Maven
