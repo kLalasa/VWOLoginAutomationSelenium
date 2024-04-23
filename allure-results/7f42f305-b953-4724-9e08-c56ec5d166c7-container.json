@@ -1,0 +1,1 @@
+{"uuid":"7f42f305-b953-4724-9e08-c56ec5d166c7","name":"org.example.Lab001.setUp","children":["c2bb911b-0433-4435-9791-fdd2aa37bfe6"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1713805802462,"stop":1713805809024}],"afters":[],"start":1713805802461,"stop":1713805809025}
